@@ -3,11 +3,9 @@
 
 
 - 🔭 I’m currently working on Machine learning and deep learning stuff
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on Data science stuff
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently influencer on data science platforms
+- 👯 I’m looking to collaborate on Data science stuffs
+- 🤔 I’m looking for help with open source projects
+- 💬 Ask me about Software development and analytucs
+- 📫 How to reach me: 
 -->
