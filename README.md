@@ -5,8 +5,9 @@ Skills:   DNN / CNN / RNN
 
 - 🔭 I’m currently working on Software development and data science stuff. 
 - 🌱 I’m currently learning full stack data science 
-- 👯 I’m looking to collaborate on open source project 
+- 👯 I’m looking to collaborate on software engineering, data science stuffs 
 - 🤔 I’m looking for help with computer vision projects. 
+- 💬 Ask me about software development and analytics 
 - 📫 How to reach me: linkedin : https://www.linkedin.com/in/pratik-bhansali/  
 
 
