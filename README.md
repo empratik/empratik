@@ -1,6 +1,6 @@
 ### Hi there 👋, its Pratik
 #### The data speaks until you are not involve in it.
-!(https://i.gifer.com/5eKX.mp4)
+
 
 
 Skills:   DNN / CNN / RNN
