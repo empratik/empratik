@@ -11,13 +11,15 @@ Skills:   DNN / CNN / RNN
 
 - 📫 How to reach me: linkedin : https://www.linkedin.com/in/pratik-bhansali/  
 
-    def Pratik():
+    #####def Pratik():
   skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Advance', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
   cloud_architecture = ['heroku', 'aws sagemaker', 'azure' ]
   kaggle_competitions = 3
   active_blogger = True
   return ∞
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/empratik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emPratik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/em_pratik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](itspratik046@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@itspratik046)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=empratik&show_icons=true)  
