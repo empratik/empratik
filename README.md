@@ -5,7 +5,7 @@ Skills:   DNN / CNN / RNN
 
 - 🔭 I’m currently working on Software development and data science stuff. 
 - 🌱 I’m currently learning full stack data science 
-- 👯 I’m looking to collaborate on software engineering, data science stuffs 
+- 👯 I’m looking to collaborate on software engineering, data science projects
 - 🤔 I’m looking for help with computer vision projects. 
 - 💬 Ask me about anything, I'm happy to help 
 
